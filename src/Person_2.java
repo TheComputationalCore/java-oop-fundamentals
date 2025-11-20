@@ -1,7 +1,7 @@
 package task2;
 // Question 1.4
 // creating base class person with attributes name and age
-public class Person {
+public class Person_2{
     String name;
     int age;
 
