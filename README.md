@@ -1,4 +1,4 @@
-# Java OOP Foundations
+# Java OOP Fundamentals
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
