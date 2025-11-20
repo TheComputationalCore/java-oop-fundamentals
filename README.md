@@ -1,6 +1,6 @@
 # Java OOP Fundamentals
 
-[![Java Build](https://github.com/TheComputationalCore/java-oop-foundations/actions/workflows/java-build.yml/badge.svg)](https://github.com/TheComputationalCore/java-oop-foundations/actions/workflows/java-build.yml)
+[![Java Build](https://github.com/TheComputationalCore/java-oop-fundamentals/actions/workflows/java-build.yml/badge.svg)](https://github.com/TheComputationalCore/java-oop-fundamentals/actions/workflows/java-build.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
