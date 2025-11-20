@@ -1,9 +1,8 @@
 # Java OOP Fundamentals
 
+![Java Build](https://github.com/TheComputationalCore/java-oop-fundamentals/actions/workflows/java-build.yml/badge.svg)
+
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-
-![Java Build](https://github.com/TheComputationalCore/java-oop-foundations/actions/workflows/java-build.yml/badge.svg)
-
 
 
 This repository contains Java programs demonstrating fundamental Object-Oriented Programming (OOP) concepts such as encapsulation, inheritance, and basic class design. It includes four tasks (1.1 to 1.4), each illustrating a different OOP principle.
