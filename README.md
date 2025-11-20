@@ -8,7 +8,7 @@ It includes four tasks (1.1 to 1.4), each implemented using separate Java classe
 ## 📁 Project Structure
 
 ```
-java-oop-foundations/
+src/
 ├── Account.java
 ├── Person.java
 ├── Person_2.java
