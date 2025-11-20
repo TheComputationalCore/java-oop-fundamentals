@@ -1,6 +1,7 @@
 # Java OOP Fundamentals
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 ![Java Build](https://github.com/TheComputationalCore/java-oop-foundations/actions/workflows/java-build.yml/badge.svg)
 
 
