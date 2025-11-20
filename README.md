@@ -1,4 +1,4 @@
-# Java OOP Foundations
+# Java OOP Fundamentals
 
 This repository contains Java programs demonstrating **Object-Oriented Programming (OOP)** concepts such as encapsulation, constructors, inheritance, and class design.  
 It includes four tasks (1.1 to 1.4), each implemented using separate Java classes.
