@@ -9,18 +9,29 @@ This repository contains Java programs demonstrating fundamental Object-Oriented
 
 ## 📁 Project Structure
 ```
-src/
-├── Account.java
-├── Person.java
-├── Person_2.java
-├── Product.java
-├── XYZ.java
-└── screenshots/
-    ├── 1.1.png
-    ├── 1.2.a.png
-    ├── 1.2.b.png
-    ├── 1.3.png
-    └── 1.4.png
+java-oop-fundamentals/
+│
+├── .github/
+│   └── workflows/
+│       └── java-build.yml
+│
+├── screenshots/
+│   ├── 1.1.png
+│   ├── 1.2.a.png
+│   ├── 1.2.b.png
+│   ├── 1.3.png
+│   └── 1.4.png
+│
+├── src/
+│   ├── Account.java
+│   ├── Person.java
+│   ├── Person_2.java
+│   ├── Product.java
+│   └── XYZ.java
+│
+├── LICENSE
+└── README.md
+
 ```
 
 ## 📝 Task Overviews
